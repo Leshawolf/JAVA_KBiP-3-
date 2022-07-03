@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+    <Employee>
+        <age>29</age>
+        <name>Rychka</name>
+        <gender>Valia</gender>
+        <role>Guse</role>
+        <salary>250.0</salary>
+    </Employee>
+    <Employee>
+        <age>35</age>
+        <name>Mark</name>
+        <gender>Zghiv</gender>
+        <role>OOP</role>
+        <salary>210.1</salary>
+    </Employee>
+    <Employee>
+        <age>40</age>
+        <name>Red</name>
+        <gender>Black</gender>
+        <role>Oper</role>
+        <salary>50.5</salary>
+    </Employee>
+    <Employee>
+        <age>25</age>
+        <name>Reno</name>
+        <gender>Sandera</gender>
+        <role>Auto</role>
+        <salary>350.0</salary>
+    </Employee>
+</Employees>

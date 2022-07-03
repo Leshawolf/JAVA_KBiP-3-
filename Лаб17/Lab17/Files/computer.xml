@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<device>
+    <unit name="Mouse">
+        <origin>China</origin>
+        <price>250</price>
+        <type>Control</type>
+        <energy_consumption>40</energy_consumption>
+        <cooler_exist>false</cooler_exist>
+        <socket>USB</socket>
+        <critical>false</critical>
+    </unit>
+    <unit name="WebCam">
+        <origin>USA</origin>
+        <price>170</price>
+        <type>Input</type>
+        <energy_consumption>75</energy_consumption>
+        <cooler_exist>false</cooler_exist>
+        <socket>USB</socket>
+        <critical>false</critical>
+    </unit>
+    <unit name="Monitor">
+        <origin>Germany</origin>
+        <price>40</price>
+        <type>Output</type>
+        <energy_consumption>120</energy_consumption>
+        <cooler_exist>true</cooler_exist>
+        <socket>USB</socket>
+        <critical>true</critical>
+    </unit>
+</device>
